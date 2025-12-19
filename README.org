@@ -1,0 +1,9 @@
+* function
+
+Function utilities and higher-order programming support for Common Lisp.
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/jrm-code-project/function.git |
+| commit  | d13eb6f                                              |
+| systems | function                                             |
+|---------+------------------------------------------------------|
