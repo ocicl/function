@@ -7,4 +7,4 @@ Function utilities and higher-order programming support for Common Lisp.
 | commit  | d13eb6f                                              |
 | systems | function                                             |
 |---------+------------------------------------------------------|
- 
+  
